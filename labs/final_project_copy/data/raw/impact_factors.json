@@ -1,0 +1,32 @@
+{
+    "carbon": {
+        "steel": 1.8,
+        "aluminum": 8.1,
+        "plastic": 2.7,
+        "paper": 0.9,
+        "glass": 1.2,
+        "wood": 0.3,
+        "concrete": 0.9,
+        "copper": 2.3
+    },
+    "water": {
+        "steel": 300,
+        "aluminum": 1500,
+        "plastic": 200,
+        "paper": 100,
+        "glass": 150,
+        "wood": 50,
+        "concrete": 100,
+        "copper": 400
+    },
+    "energy": {
+        "steel": 20,
+        "aluminum": 150,
+        "plastic": 80,
+        "paper": 15,
+        "glass": 12,
+        "wood": 8,
+        "concrete": 1.5,
+        "copper": 40
+    }
+} 

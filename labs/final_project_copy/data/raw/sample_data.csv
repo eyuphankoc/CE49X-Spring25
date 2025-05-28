@@ -1,0 +1,13 @@
+material,quantity,unit,stage,date
+steel,100,kg,manufacturing,2024-01-01
+aluminum,50,kg,manufacturing,2024-01-01
+plastic,75,kg,manufacturing,2024-01-01
+paper,200,kg,manufacturing,2024-01-01
+steel,20,kg,transportation,2024-01-02
+aluminum,10,kg,transportation,2024-01-02
+plastic,15,kg,transportation,2024-01-02
+paper,40,kg,transportation,2024-01-02
+steel,5,kg,disposal,2024-01-03
+aluminum,2,kg,disposal,2024-01-03
+plastic,8,kg,disposal,2024-01-03
+paper,50,kg,disposal,2024-01-03 
